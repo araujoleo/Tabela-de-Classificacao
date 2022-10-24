@@ -1,2 +1,2 @@
 # Tabela de Classificacao
- Tabela de classificação criada na Imersão Dev da Alura. 
+ Tabela de classificação criada durante a Imersão Dev da Alura. 
